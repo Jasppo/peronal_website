@@ -39,7 +39,7 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 superuser: true
-title: Jasppo
+title: Jaspreet (Jaspo) Kang
 ---
 
 I am currently employed as a Data Analyst at the Office of Policy and Planning (OPP) within the California Department of Public Health (CDPH). In this role, I specialize in conducting thorough and extensive community and statewide health assessments that play a pivotal role in shaping effective public health policies and interventions. My professional interests encompass a wide array of domains, including expertise in the R programming language, ETL (Extract, Transform, Load) processing, adept data wrangling, precise data analysis, a keen understanding of epidemiology, a passion for machine learning, and a flair for web development.
