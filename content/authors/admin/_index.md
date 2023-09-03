@@ -1,56 +1,48 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Dedicated to advancing public health outcomes through the power of data-driven decision-making.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+  - course: MSc in Statistics
+    institution: Cal Poly - San Luis Obispo 
+    year: 2026 (Expected)
+  - course: BSc in Statistics
+    institution: University of California - Los Angeles (UCLA)
+    year: 2019
+email: "jaspo.kang@gmail.com"
+first_name: Jaspreet
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- ETL Processing
+- Data Analysis
+- Data Visualizations
+last_name: Kang
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: California Department of Public Health
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
+  icon: instagram
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  label: Follow me on IG
+  link: https://www.instagram.com/jaspo30/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Jasppo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jaspreet-kang1/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-status:
-  icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Jasppo
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently employed as a Data Analyst at the Office of Policy and Planning (OPP) within the California Department of Public Health (CDPH). In this role, I specialize in conducting thorough and extensive community and statewide health assessments that play a pivotal role in shaping effective public health policies and interventions. My professional interests encompass a wide array of domains, including expertise in the R programming language, ETL (Extract, Transform, Load) processing, adept data wrangling, precise data analysis, a keen understanding of epidemiology, a passion for machine learning, and a flair for web development.
+
+What truly drives my enthusiasm is the end-to-end process of transforming intricate and messy data into actionable insights that have the potential to make a significant impact on public health. My commitment to these endeavors underscores my dedication to advancing public health outcomes through the power of data-driven decision-making.
 {style="text-align: justify;"}
